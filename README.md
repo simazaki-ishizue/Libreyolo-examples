@@ -28,6 +28,6 @@ LibreYOLO_workflow_v001.ipynb
 
 　・LibreYOLO_workflow_v001.ipynb
   
-  ・dataset.zip
+ 　 ・dataset.zip
 
 
