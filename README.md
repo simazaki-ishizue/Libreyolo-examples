@@ -21,10 +21,13 @@ LibreYOLO_workflow_v001.ipynb
 ## 実行環境：
 
 ①Google Driveに次のフォルダを作成する。
+
 　/drive/MyDrive/projects/libreyolo/
 
 ②そのフォルダに以下のファイルをコピーしてください。
+
 　　・LibreYOLO_workflow_v001.ipynb
+  
   　・dataset.zip
 
 
