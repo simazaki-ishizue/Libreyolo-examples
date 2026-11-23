@@ -26,8 +26,8 @@ LibreYOLO_workflow_v001.ipynb
 
 ②そのフォルダに以下のファイルをコピーしてください。
 
-　　・LibreYOLO_workflow_v001.ipynb
+　・LibreYOLO_workflow_v001.ipynb
   
-  　・dataset.zip
+  ・dataset.zip
 
 
